@@ -180,7 +180,7 @@
   Use amounts you can afford to lose. DeFi carries risks (smart contracts, oracles, liquidity, bridges, market conditions).
 </p>
 
-<h3>License</h3>
+<h3>- license</h3>
 <p>
   TBD (choose an OSI-approved license appropriate for your use).
 </p>
