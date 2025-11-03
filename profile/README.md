@@ -174,11 +174,6 @@
 </p>
 <br>
 
-> This repository contains a **demo strategy implementation** used on [rumor.fi](https://rumor.fi/).  
-> Connect your wallet on the site to try the **50/50 split** demo <em>(USDT → 50% lend as USDT on Aave, 50% swap to USDC → lend on Aave)</em>. The demo showcases the execution flow and UX we’re building toward.
-<br>
-<br>
-
 <h3>- security &amp; disclaimer</h3>
 <p>
   This is <strong>experimental, non-custodial</strong> software. No warranties. <strong>Not financial advice.</strong>
