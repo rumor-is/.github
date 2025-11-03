@@ -177,4 +177,10 @@
 <h3>- security &amp; disclaimer</h3>
 <p>
   This is <strong>experimental, non-custodial</strong> software. No warranties. <strong>Not financial advice.</strong>
-  Use amounts you can afford to lose. DeFi carries risks <em>(smart contracts, oracles, liquidity, bridges, market condi
+  Use amounts you can afford to lose. DeFi carries risks (smart contracts, oracles, liquidity, bridges, market conditions).
+</p>
+
+<h3>License</h3>
+<p>
+  TBD (choose an OSI-approved license appropriate for your use).
+</p>
